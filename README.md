@@ -25,3 +25,14 @@ Additionally you can create an icon on statusbar as i did to display this
 	
 }
 ```
+
+## define
+This script is to get the meaning of a word either be given as an argument or upon selecting a certain word. The meaning will be displayed as a notification.
+
+Set this script in your path to run it without ./:
+
+sample code :
+```bash
+	define ritz
+```
+additionally, bind this script to a keybind so that the other feature of getting the meaning upon selecting a text can be used.
