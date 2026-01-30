@@ -33,6 +33,6 @@ Set this script in your path to run it without ./:
 
 sample code :
 ```bash
-	define ritz
+ define ritz
 ```
 additionally, bind this script to a keybind so that the other feature of getting the meaning upon selecting a text can be used.
