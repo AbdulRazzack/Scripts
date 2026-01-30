@@ -15,7 +15,7 @@ for more info on your operating system
 ```
 
 Additionally you can create an icon on statusbar as i did to display this
-```bash
+```json
 "custom/salah": {
 	"exec": "~/.local/bin/salah(Your Script location)",
 	"interval": 60,
