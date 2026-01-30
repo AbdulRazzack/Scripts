@@ -2,7 +2,7 @@
 My own bash scripts, created to solve my personal issues.
 
 
-##Salah script
+## Salah script
 This script is to get the current salah time according to your geolocation this uses salahtime
 
 for Arch linux(AUR)
